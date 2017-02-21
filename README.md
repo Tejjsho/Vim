@@ -6,4 +6,7 @@ my vim config.
 vundle 
 
 # packages
+look into:
 ctrlp https://github.com/ctrlpvim/ctrlp.vim
+
+installed:
